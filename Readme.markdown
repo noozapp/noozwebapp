@@ -1,8 +1,3 @@
-# Running Locally
+#Thanks
 
-    $ git clone https://github.com/nothingmagical/getcoinsapp.com.git
-    $ cd getcoinsapp.com
-    $ bundle install
-    $ bundle exec shotgun
-
-Enjoy.
+Big thanks to [Sam Soffes](https://github.com/soffes) for open sourcing almost every thing he does, I used the code from [Coins](http://getcoinsapp.com) and [Shares](http://getsharesapp.com) websites for making this.
